@@ -20,6 +20,6 @@ Ex:
 
 ````
 git add .
-git commit -m "escreva qual secao e video parou Ex: secao-4 introducao"
+git commit -m "secao 4 introducao"
 git push
 ````
