@@ -15,3 +15,11 @@ Ex:
 'ctrl' + '=' -  mais zoom na tela
 'ctrl' + '-' -  menos zoom na tela
 ````
+
+# Salvar meus estudos
+
+````
+git add .
+git commit -m "escreva qual secao e video parou Ex: secao-4 introducao"
+git push
+````
