@@ -12,4 +12,6 @@ Ex:
 1. topico exemplo
     escrever sobre o topico
 
+'ctrl' + '=' -  mais zoom na tela
+'ctrl' + '-' -  menos zoom na tela
 ````
