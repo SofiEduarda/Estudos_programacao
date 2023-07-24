@@ -20,7 +20,7 @@ Ex:
 
 ````
 git add .
-git commit -m "secao 4 idade contemporanea da calculadora de weiss ao ocr "
+git commit -m "secao 4 idade contemporanea da maquina de turing ate o mark 1  "
 git push
 
 ````
