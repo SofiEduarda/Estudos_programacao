@@ -24,10 +24,6 @@ git commit -m "secao 4 idade contemporanea da maquina de turing ate o mark 1  "
 git push
 
 ````
-
-# Nome dos arquivos
-
-````
 nao pode ter espaços, coloque um - ou _ para mostrar que tem um espaco ali
 nome-do-video.md 
 ````
